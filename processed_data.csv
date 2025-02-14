@@ -1,0 +1,4 @@
+project_id,built_up_area,floors,bhk,service_package,estimated_cost
+1,0.0,0.0,0.0,2,0.0
+2,0.5,1.0,1.0,1,0.5
+3,1.0,0.0,1.0,0,1.0
